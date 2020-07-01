@@ -14,7 +14,7 @@ Pemancar menghubungkan 2 kapal, yakni kapal1 (kanan) dan kapal2 (kiri). Digunaka
 ![Loc zoom](/images/airlink_lokasi_pemancar.JPG)
 Untuk antena yang dapat digunakan 
 ![Loc](/images/antena_ltu_rocket.JPG)
-harga antena bervariasi. Tiang tower dapat memakai tower triangle/fourangle
+harga antena bervariasi. Tiang tower dapat memakai tower triangle/fourangle. Harga tiang bermacam-macam, umumnya dihitung per meter ketinggian.
 ### Kapal 1
 Kapal 1 terletak di laut jawa [lat:-6,635976 long:112.5075](https://goo.gl/maps/cGWQihGx88Sr25Ue7)
 ![Loc](/images/airlink_kapal_2.JPG)
@@ -24,7 +24,7 @@ Receiver dapat menggunakan LTU-Pro dengan spesifikasi [berikut](https://store.ui
 Kapal 2 terletak di laut jawa [lat:-6,623547 long:112,2531](https://goo.gl/maps/cGWQihGx88Sr25Ue7)
 ![Loc](/images/airlink_kapal_1.JPG)
 ![Loc](/images/Port-Kapal2.JPG)
-Receiver dapat menggunakan LTU-LR dengan spesifikasi [berikut](https://store.ui.com/collections/operator-airmax-and-ltu/products/ltu-lr) dan datasheet [berikut](https://dl.ui.com/ds/ltu-lr_ds.pdf), harga USD179
+Receiver dapat menggunakan LTU-LR dengan spesifikasi [berikut](https://store.ui.com/collections/operator-airmax-and-ltu/products/ltu-lr) dan datasheet [berikut](https://dl.ui.com/ds/ltu-lr_ds.pdf), harga USD129
 ### Pros-Cons
 1. Pros:
 - lebih murah
@@ -32,5 +32,7 @@ Receiver dapat menggunakan LTU-LR dengan spesifikasi [berikut](https://store.ui.
 - rentan gangguan
 - pemasangan ribet
 - mudah loss bila terlalu jauh dari garis pantai
+- agak tidak mungkin membuat tiang terlalu tinggi, juga kecepatan angin pantai yang berhembus (baik siang/malam).
 
 ## Satelit dengan VSAT-Ku Band
+VSAT Ku Band **DIREKOMENDASIKAN** untuk pelayaran hingga lintas pulau, sehingga dapat diterapkan pada kapal-kapal penangkap ikan. Area coverage tergantung wilayah cover satelit. Tiap-tiap penyedia jasa memiliki batas jangkauan masing-masing. Alangkah lebih baik bila membuat kerjasama dengan penyedia layanan (penawaran biasanya berbeda-beda)
