@@ -4,6 +4,10 @@ dalam project ini dibuat:
 - Komunikasi satelit dengan VSAT **Recomended**
 ## Terestrial dengan LTU-AP
 Studi kasus diambil dari pantai utara-laut jawa di Kec. Brondong, Lamongan, Jawa Timur. Dipilihnya lokasi ini karena wilayah ini merupakan salah satu sentra pemasok ikan laut tangkap terbesar di Jawa Timur.
+
+File radio mobile (.net .map .bmp dll) ada di source code
+Shared link ubiquiti simulator [link.ui.com](https://link.ui.com/#p=42ae3e4e7a594942a4b3fd843ff804bc)
+
 Berikut kontur medan di wilayah tsb.
 ![Medan Kec. Brondong](/images/Kapal_Brondong.JPG) ![Polar](/images/Loc._POLAR_Kapal_Brondong.JPG)
 ### Pemancar
