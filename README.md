@@ -34,5 +34,19 @@ Receiver dapat menggunakan LTU-LR dengan spesifikasi [berikut](https://store.ui.
 - mudah loss bila terlalu jauh dari garis pantai
 - agak tidak mungkin membuat tiang terlalu tinggi, juga kecepatan angin pantai yang berhembus (baik siang/malam).
 
-## Satelit dengan VSAT-Ku Band
-VSAT Ku Band **DIREKOMENDASIKAN** untuk pelayaran hingga lintas pulau, sehingga dapat diterapkan pada kapal-kapal penangkap ikan. Area coverage tergantung wilayah cover satelit. Tiap-tiap penyedia jasa memiliki batas jangkauan masing-masing. Alangkah lebih baik bila membuat kerjasama dengan penyedia layanan (penawaran biasanya berbeda-beda)
+## Satelit dengan VSAT
+![vsat gyro](https://ecs7.tokopedia.net/img/cache/700/product-1/2018/11/15/11554200/11554200_b8932015-152d-426f-8395-3b29c41d9af0_800_800.jpg.webp)
+VSAT Maritime **DIREKOMENDASIKAN** untuk industri maritim, terlebih pada kapal-kapal penangkap ikan. VSAT Maritim dilengkapi dengan gyro yang berfungsi menstabilkan arah pancaran sinyal tepat menuju satelit melalui rotasi lengan. Biaya layanan bervariasi. Untuk akses internet digunakan Ku-Band. Beberapa penyedia jasa juga menawarkan sewa perangkat. Misalnya, [Primadona Net](primadonanet.co.id)
+
+*KU Band merupakan jaringan yang lahir setelah C Band. KU Band memiliki rentang frekuensi 11,7-12,2 GHz untuk komunikasi dari satelit ke penerima di bumi (downlink).  14,0-14,5 GHz untuk komunikasi dari penerima di bumi ke satelit (uplink). KU Band, biasanya, digunakan untuk siaran dan koneksi internet dua arah. Rentang frekuensi KU Band dialokasikan secara eksklusif untuk digunakan oleh sistem komunikasi satelit, sehingga menghilangkan masalah interferensi dengan sistem terestrial gelombang mikro. Karena panjang gelombang yang lebih kecil dan bandwidth yang lebih lebar, maka dimungkinkan untuk menggunakan antena penerima beserta power yang lebih kecil namun kapasitas kecepatan internet-nya lebih besar.*
+### Pros
+Pada awal komunikasi satelit, C band adalah satu-satunya pilihan. Kehadiran KU Band berhasil menggeser kepopuleran C Band karena beberapa alasan. Sinyal yang dipancarkan KU Band sangat kuat, padahal menggunakan dish berukuran mini bahkan seukuran tutup panci untuk menerima sinyal siaran dan tahan terhadap kebisingan. Sistem perangkat antena dan paket layanan berbasis internet yang lebih praktis dan murahpun menguntungkan pelanggan. Walau dikenal lemah ketika musim penghujan, kini dampak dari hujan lebat telah dapat dikurangi. Dengan disain engineering dan peralatan teknologi mutakhir layanan pada frekuensi KU Band dapat mengimbangi keadaan cuaca di negara tropis.
+### Cons
+Memang sistem perangkat 1,2meter KU Band lebih murah dari C Band, namun ketahanannya terhadap cuaca harus diakui masih berada sedikit dibawah C Band. Sinyal akan hilang (sesaat) pada awal terjadinya hujan besar, sesaat setelah sistem perangkat KU Band selesai melakukan restart maka sistem akan menghidupkan kembali akses internet dengan modulasi yang lebih rendah secara otomatis. Dengan begitu sistem perangkat kini sanggup bertahan online saat hujan. Layanan KU Band banyak digunakan oleh lembaga komersil yang menerapkan biaya berlangganan kepada konsumennya. Khususnya bagi mereka yang selalu mencari inovasi untuk menurunkan biaya berlangganan dan pembelian antena bagi pelanggan. Banyak pula kantor cabang perusahaan-perusahaan yang membutuhkan kecepatan internet VSAT broadband puas ketika menggunakan layanan ini. Layanan jaringan pada frekuensi KU Band juga cocok digunakan untuk berbagai service application pada sosial media.
+[sumber: https://ksinergi.co.id/pilih-ku-band-atau-c-band/](https://ksinergi.co.id/pilih-ku-band-atau-c-band/)
+
+Area coverage tergantung wilayah cover satelit. Tiap-tiap penyedia jasa memiliki batas jangkauan masing-masing. Alangkah lebih baik bila membuat kerjasama dengan penyedia layanan (penawaran biasanya berbeda-beda).
+
+### Detil harga
+Layanan+sewa perangkat oleh Primadona Net Rp25 juta, [link Tokopedia](https://www.tokopedia.com/primadona-net/layanan-internet-satelit-vsat-maritim-vsat-kapal-gyro-vsat) baca comment
+Beberapa perusahaan VSAT menawarkan layanan ku-band sebagai berikut
